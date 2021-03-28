@@ -37,7 +37,7 @@ function opentelegram() {
 }
 
 function openfacebook() {
-    window.location.href = "https://www.facebook.com/rituraj.gupta.148116"
+    window.location.href = "https://www.facebook.com/rituraj2110"
 }
 
 function opentwitter() {
