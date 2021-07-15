@@ -25,7 +25,7 @@ function openinsta() {
 }
 
 function openli() {
-    window.location.href = "https://www.linkedin.com/in/rituraj-gupta-222334192"
+    window.location.href = "https://www.linkedin.com/in/rituraj-gupta/"
 }
 
 function opentelegram() {
